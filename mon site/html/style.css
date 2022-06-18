@@ -1,0 +1,53 @@
+ h2{color:green;
+    font-family:roboto;
+    text-align:center;
+}
+
+label{
+color: burlywood;
+font-family: roboto;
+text-align:right;
+}
+
+h3{
+color: yellowgreen;
+font-family: roboro;
+text-align: left;
+}
+
+h2{
+color:darkred;
+font-family: roboto;
+text-align: center;
+}
+.gren{color:yellowgreen}
+.square{
+    color: black;
+}
+ ::-webkit-scrollbar{
+     width: 10px;background-color:#666;
+ }
+
+ ::-webkit-scrollbar-thumb{
+     background-color:#f39;
+     box-shadow: 0 -100vh 0 100vh #f39;
+ }
+ .b{
+     color:blue;
+ }
+ .h2{
+     color:#f39;
+ }
+ p{
+     color: green;
+ }
+ 
+ h1{
+      text-align: center;
+      text-transform:capitalize;
+      border: 2px solid teal;
+      border-radius: 10px;
+      color: dodgerblue;
+      background-color: bisque;    
+ }
+ .tt{color: red ;}
